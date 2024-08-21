@@ -15,10 +15,6 @@
 
 // #pragma prutor-mpi-args: -np 12 -ppn 4
 // #pragma prutor-mpi-sysargs: 4 16777216 10 7
-//  TC-1 : #pragma prutor-mpi-sysargs: 4 262144 10 7 
-//  TC-2 : #pragma prutor-mpi-sysargs: 4 262144 10 7
-//  TC-3 : #pragma prutor-mpi-sysargs: 4 4194304 10 7
-//  TC-4 : #pragma prutor-mpi-sysargs: 4 4194304 10 7
 
 int main( int argc, char *argv[])
 {
